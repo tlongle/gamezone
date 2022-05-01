@@ -6,4 +6,5 @@ NOTE2: The website is also being hosted on GitHub Pages in this [repo](https://g
 # What is Gamezone?
 Gamezone is a website for selling games & software for all kinds of platforms including PlayStation, XBOX, Nintendo and PC games 🕹️
 
-This website was made using ASP.NET, HTML, CSS and Bootstrap. Gamezone was built as a final school project for my IT course.
+This website was made using ASP.NET, HTML, CSS and Bootstrap.
+Gamezone was built as a final school project for my IT course.
