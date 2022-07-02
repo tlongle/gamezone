@@ -1,3 +1,4 @@
+![Gamezone Logo](https://imgur.com/a/XgNeef2)
 # 🕹️ Gamezone - Website for selling games & software
 NOTE: Not affiliated with Gamezone.com or/and Gamezone.io
 
